@@ -1,3 +1,3 @@
 module.exports={
-    db:'mongodb://localhost:27017/emploies'
+    db:'mongodb+srv://sumitprasad90:dummyapi@api-db.rwjt02y.mongodb.net/?retryWrites=true&w=majority'
 }
